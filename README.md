@@ -19,7 +19,7 @@ These features enhance the interactivity and overall experience while retaining 
 
 The installer for the game is available in the **Releases** section of this repository. To install and play the game:
 
-1. Navigate to the [Releases](https://github.com/vishal-sah/rollscape.git/releases) section of this repository.
+1. Navigate to the [Releases](https://github.com/vishal-sah/rollscape/releases) section of this repository.
 2. Download the latest installer for your platform.
 3. Run the installer and follow the on-screen instructions.
 
